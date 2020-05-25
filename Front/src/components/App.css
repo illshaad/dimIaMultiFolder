@@ -1,0 +1,218 @@
+h1 {
+  width: 450px;
+}
+
+body {
+  position: relative;
+}
+
+.text {
+  font-size: 150px;
+}
+
+.files input {
+  border: 3px solid #eee;
+  border-radius: 7px;
+  padding: 30px;
+  user-select: none;
+  background: #fff;
+}
+
+img {
+  height: 350px;
+  width: 350px;
+  margin-left: 350px;
+  position: absolute;
+}
+
+.files {
+  position: relative;
+  margin-left: 15px;
+}
+.files:after {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 50px;
+  right: 0;
+  height: 56px;
+  content: "";
+  display: block;
+  margin: 0 auto;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.files :hover {
+  border-color: #2e54a5;
+  transition: all 1.2s ease-out;
+}
+.color input {
+  background-color: #f1f1f1;
+}
+
+.Exit {
+  display: inline-block;
+  clear: both;
+  width: 150px;
+  margin-bottom: 30px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  text-transform: initial;
+  border: none;
+  border-radius: 0.2rem;
+  outline: none;
+  padding: 0 1rem;
+  height: 36px;
+  line-height: 36px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
+  background: #dd5151;
+  border-color: #dd5151;
+  cursor: pointer;
+}
+.btn {
+  display: inline-block;
+  font-family: inherit;
+  font-size: 13px;
+  height: 30px;
+  text-decoration: none;
+  text-transform: initial;
+  border: none;
+  border-radius: 0.2rem;
+  outline: none;
+  padding: 0 1rem;
+  margin-left: 150px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
+  background: #454cad;
+  border-color: #454cad;
+  cursor: pointer;
+}
+
+table {
+  text-align: center;
+  border: 3px solid #eee;
+  width: 100%;
+  margin-bottom: -3rem !important;
+}
+
+.response :hover {
+  border-color: #2e54a5;
+  transition: all 1.2s ease-in-out;
+}
+.response {
+  margin-top: 150px;
+  font-size: 18px;
+}
+td {
+  border: 1px solid #eee;
+}
+
+i {
+  color: tomato;
+}
+
+.image-home {
+  background-image: url("/illustration_article_CEA_Plan de travail 1.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 350px;
+}
+
+.text-home {
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+}
+
+.button-home {
+  display: inline-block;
+  font-family: inherit;
+  font-size: 25px;
+  text-decoration: none;
+  text-transform: initial;
+  border: none;
+  border-radius: 0.2rem;
+  outline: none;
+  padding: 0 1rem;
+  margin-top: 100px;
+  margin-left: 450px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
+  background: #454cad;
+  border-color: #454cad;
+  cursor: pointer;
+}
+
+.button-next {
+  display: inline-block;
+  margin-left: 300px;
+  clear: both;
+  width: 350px;
+  margin-bottom: 30px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  text-transform: initial;
+  border: none;
+  border-radius: 0.2rem;
+  outline: none;
+  height: 36px;
+  line-height: 36px;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  box-sizing: border-box;
+  background: #454cad;
+  border-color: #454cad;
+  cursor: pointer;
+}
+
+.logo {
+  background-image: url("./Logo.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  width: 200px;
+  height: 100px;
+}
+
+.AutoComplete {
+  border: 3px solide grey;
+  width: 600px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+
+.AutoComplete input {
+  border: none;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.73);
+  padding: 10px 5px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.AutoComplete ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+.AutoComplete ul::before {
+  content: "";
+}
+
+.AutoComplete li {
+  cursor: pointer;
+}
+
+.AutoComplete li:hover {
+  text-decoration: underline;
+  background-color: rgb(128, 128, 128, 0.2);
+}

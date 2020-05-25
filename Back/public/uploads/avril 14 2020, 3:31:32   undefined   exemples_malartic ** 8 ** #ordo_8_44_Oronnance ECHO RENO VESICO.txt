@@ -1,0 +1,19 @@
+
+		
+ @docteGestio#nom_prenom
+Patient : @docteGestio#nom_prenom
+
+
+
+
+Faire une échographie réno-vésico-pelvienne avec mesure
+
+du résidu post-mictionnel.
+
+(avoir la vessie pleine le jour de l’examen)
+
+
+
+
+									Dr Jean-Marc DEVEVEY
+

@@ -1,0 +1,20 @@
+ @docteGestio#nom_prenom
+Nos Références  @docteGestio#reference_numero
+ @docteGestio#nom_prenom
+ @docteGestio#nom_prenom
+Né(e) le  @docteGestio#date_naissance
+
+Cher Confrère,
+
+Nous revoyons en consultation Monsieur  @docteGestio#nom_prenom   @docteGestio#nom_prenom  qui a été suivi pour une PPR jusqu’en avril 2017. 
+Le patient signale à partir du mois de juin 2017 une reprise des douleurs inflammatoires des ceintures. Un traitement par cortisone a été repris sans que l’on ait constaté de syndrome biologique inflammatoire. Actuellement, à 10 mg/jour de CORTANCYL, le patient est asymptomatique et l’examen clinique est sans particularité avec une TA à 12/6. 
+Il n’y a pas d’articulation douloureuse ou gonflée et l’auscultation cardio-pulmonaire est sans anomalie. 
+Le bilan biologique ne montre ni inflammation ni anomalie de l’hémogramme ou du bilan biochimique. 
+Nous proposons de diminuer la corticothérapie à 7 mg/jour avec un nouveau bilan biologique dans un mois pour essayer d’obtenir une décroissance rapide de la cortisone. 
+Le reste du traitment comporte : 
+DIFFU K : 1 cp le matin. 
+Bien confraternellement. 
+
+								Pr Bruno GRAFFIN
+
+

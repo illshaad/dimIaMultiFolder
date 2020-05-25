@@ -1,0 +1,40 @@
+Service Imagerie Medicale
+
+
+
+Dr BOESPFLUG Marie-Dominique
+Ancien Interne CHU de Lille
+DU de Radiologie Interventionnelle
+Maîtrise d’Anatomie
+marie-dominique.boespflug@mfvar.fr
+
+
+		
+ @docteGestio#nom_prenom
+
+ @docteGestio#nom_prenom
+ @docteGestio#nom_prenom
+ @docteGestio#nom_prenom
+
+Séjour du  @docteGestio#date_sejour
+
+
+
+Cher Confrère,
+
+Nous vous prions de trouver ci-joint en copie le compte-rendu opératoire adressé au Docteur AOUAD concernant votre patiente @docteGestio#nom_prenom
+
+Nous vous en souhaitons bonne réception et restons à votre disposition pour tout renseignement complémentaire.
+
+Croyez, Cher Confrère, à l’expression de mes sentiments confraternels et dévoués.
+
+
+
+
+
+
+Dr Marie-Dominique BOESPFLUG
+
+
+									
+

@@ -1,0 +1,14 @@
+K801 Calcul de la vésicule biliaire avec une autre forme de cholécystite : 90L050 Sinus pilonidal avec abcès : 78N328 Autres affections précisées de la vessie : 34L050 Sinus pilonidal avec abcès : 78
+N328 Autres affections précisées de la vessie : 34
+no result : 
+K572 Diverticulose du côlon, avec perforation et abcès : 52
+K572 Diverticulose du côlon, avec perforation et abcès : 52
+K573 Diverticulose du côlon, (sans perforation ni abcès) : 58
+undefined : undefined
+K573 Diverticulose du côlon, (sans perforation ni abcès) : 35
+K572 Diverticulose du côlon, avec perforation et abcès : 52
+K573 Diverticulose du côlon, (sans perforation ni abcès) : 58
+K573 Diverticulose du côlon, (sans perforation ni abcès) : 58
+K572 Diverticulose du côlon, avec perforation et abcès : 52
+2_10_CRH TYPE.txt,2_11_Ordonnance Vierge de Sortie.txt,2_12_Ordonnance Diverticule.txt,2_13_codesActes.txt.txt,2_14_diagnosticPrincipal.txt.txt,2_15_diagnosticRelie.txt.txt,2_16_diagnostiquesAssocies.txt.txt,K573 Diverticulose du côlon, (sans perforation ni abcès) : 58
+2_10_CRH TYPE.txt,2_11_Ordonnance Vierge de Sortie.txt,2_12_Ordonnance Diverticule.txt,2_13_codesActes.txt.txt,2_14_diagnosticPrincipal.txt.txt,2_15_diagnosticRelie.txt.txt,2_16_diagnostiquesAssocies.txt.txt,K573 Diverticulose du côlon, (sans perforation ni abcès) : 58

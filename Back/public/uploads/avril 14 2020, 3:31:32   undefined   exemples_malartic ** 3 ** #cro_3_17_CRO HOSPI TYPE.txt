@@ -1,0 +1,32 @@
+
+Nos Références  @docteGestio#reference_numero
+N° IPP	        :  @docteGestio#ipp_numero
+Nom, Prénom  @docteGestio#nom_prenom
+Date de naissance @docteGestio#date_naissance
+Médecin Traitant : Dr Marc GUERIN
+Médecin Prescripteur : 
+ @docteGestio#nom_prenom
+
+
+
+Séjour du  @docteGestio#date_sejour
+
+CIMENTOPLASTIE DE T8
+
+INDICATION : 
+Tassements vertébraux ostéoporotiques.
+
+
+TECHNIQUE :
+Abord sous scopie par voie uni-pédiculaire droite.
+Introduction du trocart 11G jusqu’en intra corporéal.
+Réalisation d’une biopsie osseuse.
+Injection de 4ml de ciment de type Medtronic.
+Pas d’extravasation extra corporelle.
+Radiographie de thorax normale.
+Examen réalisé sous anesthésie générale.
+Patiente adressée en chirurgie ambulatoire pour surveillance.
+
+
+
+

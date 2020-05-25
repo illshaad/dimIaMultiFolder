@@ -1,0 +1,37 @@
+Le 03/01/2018,
+Nos Références  @docteGestio#reference_numero
+N° IPP	        :  @docteGestio#ipp_numero
+Nom, Prénom  @docteGestio#nom_prenom
+Date de naissance @docteGestio#date_naissance
+
+Médecin Traitant  :  Dr VOVAN
+ @docteGestio#nom_prenom
+Date de Sortie @docteGestio#date_sortie
+
+
+
+Indication :
+Sinus pilonidal.
+
+Intervention :
+En décubitus ventral, sous anesthésie générale. 
+Vérification des ramifications au bleu de méthylène puis exérèse du sinus pilonidal dans sa totalité. Marsupialisation des parois par surjet de fil résorbable rapide 1.
+Contrôle de l’hémostase. 
+Infiltration des berges à la Naropeine.
+Pansement HydroTac.
+
+Conclusion :
+Sinus pilonidal.
+
+
+Traitement et soins post-opératoires :
+
+Refection quotidienne du pansement par IDE
+Traitement antalgique : 
+Paracétamol 1 gr :	1 cp 4 x / jour pendant 5 jours puis en cas de douleur.
+Tramadol 100 mg :	1 cp 3 x / jour pendant 3 jours puis en cas de douleur.
+
+Contrôle de la plaie et ablation des fils le  @docteGestio#date_entree Service de Soins Externes.
+
+En cas de problème avec le pansement ou de douleur mal contrôlée, contacter le Secrétariat de Chirurgie Viscérale au : 	04 94 89 89 79.
+Dr Anna NOWAK   

@@ -1,0 +1,59 @@
+Service Chirurgie ViscErale
+Chirurgie générale – Chirurgie viscérale – Chirurgie digestive –  Chirurgie endocrinienne
+Dossier de CONSULTATION
+		   Ollioules, le  @docteGestio#date_entree  	
+					
+ @docteGestio#nom_prenom
+ @docteGestio#nom_prenom
+ @docteGestio#nom_prenom
+     
+Médecin Traitant : Dr <Inconnu> 
+
+Motif de la Consultation : 
+nodules thyroidiens
+
+
+Vu(e) en consultation
+	
+
+
+
+ Antécédents MEDICAUX :
+28/11/2016 - asthme allergique
+28/11/2016 - DID depuis 2 ans secondaire à un choc émotionnel
+28/11/2016 - 0G 0P
+
+Allergies :
+
+Antécédents CHIRURGICAUX :    
+28/11/2016 - canal carpien bilateral 2015
+
+
+Histoire de la Maladie :
+nodules connus depuis 2005 sivis annuellemnt 
+plusieurs cytoponctions
+Examens Clinique :
+volumineux goitre multinodulaire assez ferme
+
+Examens Para-clinique :
+echo  : goitre multinodumaire avec nodules multiples et coalescents de 10 à 38 mm ; TI-Rads 2 ou 3 
+pas d' adenomégalie 
+bilan thyroidien non vu
+tdm à faire
+
+Intervention proposée : indication de thyroidectomie totale
+
+Date d’intervention : 24/01/2017			Ambulatoire : 	Non
+
+Ordonnances : Oui		            détail : Bas / Chausette de Contention
+
+
+Commentaires    
+ramènera le TDM  @docteGestio#nom_prenom
+   
+									Dr THOUARD Hervé
+										
+
+
+
+Compte-rendu validé électroniquement le  @docteGestio#date_entree

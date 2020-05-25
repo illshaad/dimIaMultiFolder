@@ -1,0 +1,81 @@
+
+Nos références @docteGestio#reference_numero
+ @docteGestio#nom_prenom
+Nom  @docteGestio#nom_prenom
+Date de naissance @docteGestio#date_naissance
+Nom  @docteGestio#nom_prenom
+Mode d’entrée : Urgence
+Date de séjour @docteGestio#date_sejour
+Service d’hospitalisation :	Chirurgie viscérale		Destination à la sortie : Domicile
+Professionnel référent pendant l’hospitalisation : THOUARD Herve, CHIR VISCERALE ET DIGESTIVE
+Rédacteur du document :	Anna NOWAK	Date de rédaction : 19/12/2016
+Liste de diffusion du document : Patient – médecin traitant
+Statut du document : CRH validé ou temporaire
+
+Motif de l’admission
+Diverticulite sigmoïdienne 
+
+Antécédents médicaux
+Diverticulose sigmoidienne 
+coloscopie incomplète en 2014
+
+Antécédents chirurgicaux
+Hysterectomie avec ovariectomie bilatérale pour kystes bénins 
+appendicectomie
+
+Allergies 
+.Penicilline?
+
+Traitement habituel
+<Aucun>
+
+Histoire de la Maladie :
+Douleurs FIG 
+A eu 2 épisodes de diverticulite : 2008 (colon gauche), 2014 (colon transverse) 
+
+Examen  @docteGestio#examen
+Douleur à la palpation de la FIG sans défense 
+
+Actes techniques, examens complémentaires et biologiques
+GB : 16000 CRP : 40 le  @docteGestio#date_entree 
+Le scanner montre une image inflammatoire de diverticules sigmoïdiens avec une petite collection de 25 mm.
+
+
+
+
+
+
+
+
+*Synthèse médicale du séjour
+
+Conduite tenue :
+Mise sous traitement médical : 
+- antibiotique (CLAFORAN, METRONIDAZOLE)
+- antalgique (PARACETAMOL)
+- antispasmodique (SPASFON) 
+
+Evolution :
+19/12/16: Diminution des douleurs. Apyrétique. Abdomen souple mais ballonné; Sensibilité à la palpation des fosses iliaques et de la région sus-pubienne. Alimentation sans résidus bien tolérée.
+20/12/2016: Nette amélioration avec disparition totale des douleurs.
+Apyrétique. Abdomen souple et non douloureux.
+21/12/2016 : Apyrétique, non algique. Ballonnée après les repas. Abdomen souple, non douloureux. Normalisation de la leucocytose, diminution de la CRP.
+22/12/2016 : l’échographie de contrôle montre une régression de l’épaississement sigmoïde. Il existe encore une fine lame liquidienne mais on ne retrouve pas d’abcès.
+
+ 
+Patient porteur/contact de BMR ou BHRe :        NON              OUI : 
+
+Transfusion : 				                    NON        OUI :
+
+*Traitement à la sortie 		NON           OUI
+
+- AUGMENTIN 1 gr 1cp 3 fois par jour pendant 5 jours
+- Ultra-levure 200 mg 1cp une fois par jour pendant 10 jours 
+- PARACETAMOL 1gr 1 cp 4 fois par jour en cas de douleurs
+Régime sans résidu à poursuivre 2 semaines.
+
+
+*Suites à donner		 
+
+
+Rendez vous de consultation avec le Dr NOWAK le  @docteGestio#date_entreeRendez-vous de consultation avec le Dr AYELA le  @docteGestio#date_entree 
